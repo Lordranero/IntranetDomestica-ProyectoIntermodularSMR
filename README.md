@@ -1,2 +1,7 @@
 # IntranetDomestica-ProyectoIntermodularSMR
-Mi trabajo para la asignatura de proyecto intermodular de la FPGM en sistemas microinformáticos y redes.
+
+Miembros: Álvaro Serrano Varo
+
+El proyecto escogido consiste en el desarrollo de una red privada, con sus
+pertinentes servicios y herramientas, que funcione tanto para el entorno
+doméstico como para el profesional; una intranet doméstica en toda regla.
