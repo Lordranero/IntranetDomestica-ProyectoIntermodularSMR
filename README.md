@@ -54,7 +54,7 @@ Tras buscar un hueco y conectar los distintos dispositivos necesarios para el pr
   <img src="assets\img\Router&Raspberry.jpeg" width="200" style="transform: rotate(90deg);">
 </p>
 
-Una vez en el panel, los primeros pasos fueron especificar las credenciales otorgadas por mi proveedor de internet, aquí tuve que especificar la VLAN dentro de la red de mi ISP y las credenciales reservadas para contrato.
+Una vez en el panel, los primeros pasos fueron especificar las credenciales otorgadas por mi proveedor de internet, aquí tuve que especificar la VLAN dentro de la red de mi ISP y las credenciales reservadas por contrato.
 
 <div align="center">
  <table>
